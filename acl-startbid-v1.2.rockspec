@@ -3,7 +3,7 @@ version = "1.0"
 local pluginName = "startbid-oidc-acl"
 source = {
   url = "git://github.com/LucasCCS/kong-startbid-oidc-acl",
-  tag = "v1.0"
+  tag = "v1.2"
 }
 description = {
   summary = "A Kong ACL plugin for oidc plugin",
