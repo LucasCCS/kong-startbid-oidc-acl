@@ -1,5 +1,5 @@
 package = "kong-startbid-oidc-acl"
-version = "1.0"
+version = "1.2"
 local pluginName = "startbid-oidc-acl"
 source = {
   url = "git://github.com/LucasCCS/kong-startbid-oidc-acl",
